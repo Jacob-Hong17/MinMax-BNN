@@ -1,3 +1,3 @@
 # MinMax-BNN
-MinMax Bayesian Neural Networks based on CTRL-LDR model. 
-The code here only provides a preliminary result by the paper, the code needs to be organized and updated for a more mature version soon.
+Minimax Bayesian Neural Networks (Code changed based on CTRL-LDR model). 
+The code here provides experiment results for the paper "Minimax Bayesian Neural Networks", the corresponding results can be found in the jupyter notebook with different names.
